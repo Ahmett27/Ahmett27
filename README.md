@@ -59,7 +59,7 @@ I enjoy turning research papers into working, benchmarked code.
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Ahmett27&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmett27&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmett27&theme=dark" height="150"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Ahmett27&color=blue&style=flat)
