@@ -58,7 +58,7 @@ I enjoy turning research papers into working, benchmarked code.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmett27&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Ahmett27&theme=dark&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmett27&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
