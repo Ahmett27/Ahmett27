@@ -62,6 +62,8 @@ I enjoy turning research papers into working, benchmarked code.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmett27&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Ahmett27&color=blue&style=flat)
+
 ---
 
 <p align="center">
