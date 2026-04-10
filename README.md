@@ -20,7 +20,6 @@ I enjoy turning research papers into working, benchmarked code.
 | Repo | Description |
 |------|-------------|
 | [Visual-Odometry-on-KITTI](https://github.com/Ahmett27/Visual-Odometry-on-KITTI-Dataset-Using-Deep-Learning-XFeat-) | Monocular visual odometry with XFeat deep feature extractor on KITTI — trajectory visualization, video generation & RMSE evaluation |
-| [xfeat-tartanair-finetune](https://github.com/Ahmett27/xfeat-tartanair-finetune) | Fine-tuning and benchmarking XFeat descriptor on TartanAir using reprojection loss |
 | [opencv-batch-camera-calibration](https://github.com/Ahmett27/opencv-batch-camera-calibration) | Batch camera calibration from RTSP streams using OpenCV — automated chessboard detection & error reporting |
 
 ### 🟠 Object Detection
